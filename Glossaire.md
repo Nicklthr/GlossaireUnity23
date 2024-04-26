@@ -1,6 +1,6 @@
 # C#
 ## Variables
-boolean :
+boolean : un type valeur, avec deux valeurs possibles : true ou false.
 integer :
 float :
 double :
